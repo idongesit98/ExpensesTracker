@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\bin\Debug\net8.0\Expenses.exe
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\bin\Debug\net8.0\Expenses.deps.json
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\bin\Debug\net8.0\Expenses.runtimeconfig.json
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\bin\Debug\net8.0\Expenses.dll
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\bin\Debug\net8.0\Expenses.pdb
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.AssemblyInfo.cs
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.dll
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\refint\Expenses.dll
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.pdb
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\Expenses.genruntimeconfig.cache
+C:\Users\HP\Documents\AspDotnet\Cli\Expenses\obj\Debug\net8.0\ref\Expenses.dll
