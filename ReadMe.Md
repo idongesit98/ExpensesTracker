@@ -20,7 +20,7 @@ The sample solution for the [expense-tracker](https://roadmap.sh/projects/expens
 ### Clone the repository
 
 ```bash
-git clone [git-hub](https://github.com/idongesit98/ExpenseTracker.git)
+git clone -- https://github.com/idongesit98/ExpensesTracker.git
 cd [`Your Project directory`]
 
 ```
