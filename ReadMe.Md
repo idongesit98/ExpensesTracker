@@ -30,10 +30,8 @@ cd [`Your Project directory`]
 dotnet build
 ```
 ### Usage
-```
-## Usage
 
-### Add an Expense
+## Add an Expense:
 
 ```bash
 dotnet run expenses-tracker add --description "Dinner" --amount 20 --category "Food"
@@ -43,18 +41,17 @@ Expense added successfully (ID: 1)
 
 ```bash
 dotnet run expenses-tracker list
-```
+
+Output:
 ID   Date       Description   Amount  Category
 1    2024-19-01  Lunch         $20     Food
 ```
-```
-- **By category**
+## By category
 dotnet run expenses-tracker list "food"
-```
+
 ```
 ID   Date       Description   Amount  Category
 1    2024-19-01  Dinner         $20    Food
-
 ```
 ### Delete an Expense
 
@@ -68,10 +65,11 @@ Expense deleted successfully ID: --id
 dotnet run expenses-tracker summary
 Total expenses : $40
 ```
-- **By Specific Month**
+## By Specific Month
+
+```bash
 dotnet run expenses-tracker summary 9
-```
-```
+Output:
 Total expenses for September: $40
 ```
 ### Set a Monthly Budget
@@ -80,19 +78,20 @@ Total expenses for September: $40
 dotnet run expenses-tracker set-budget --amount 500
 Budget set for the current month: $20
 ```
-
 ### Export Expenses to CSV
 
 ```bash
 dotnet run expenses-tracker export --file expenses.csv
 ```
 ### Sample Json File
-[{
+[
+    {
     "Id":1,
     "Description":"Dinner",
     "Amount":20,
     "Category":"food",
     "CreatedAt":"2024-09-18T21:36:47.5265706+01:00"
-}]
+    }
+]
 
 
