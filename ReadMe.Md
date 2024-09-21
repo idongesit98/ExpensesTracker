@@ -84,6 +84,7 @@ Budget set for the current month: $20
 dotnet run expenses-tracker export --file expenses.csv
 ```
 ### Sample Json File
+```JSON
 [
     {
     "Id":1,
@@ -93,5 +94,6 @@ dotnet run expenses-tracker export --file expenses.csv
     "CreatedAt":"2024-09-18T21:36:47.5265706+01:00"
     }
 ]
+```
 
 
